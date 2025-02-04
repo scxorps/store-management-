@@ -1,0 +1,118 @@
+GET http://127.0.0.1:8000/products/ HTTP/1.1
+
+###
+
+GET http://127.0.0.1:8000/products/2/ HTTP/1.1
+
+
+
+###
+
+DELETE http://127.0.0.1:8000/products/2/ HTTP/1.1
+
+
+###
+
+PUT http://127.0.0.1:8000/products/2/ HTTP/1.1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzM4MTQ1NzEyLCJpYXQiOjE3MzgxNDU0MTIsImp0aSI6ImQzYWE1ZjRmOTNkOTQ0NTQ4ZGI0ODBhN2I1ZTE2YzAyIiwidXNlcl9pZCI6MX0.un6NlrYHzSDb-sOMnY9jKCuBpB8kLWeeKjBqyw70i2A
+
+{
+    "name": "Television",
+    "price": 500,
+    "stock": 10,
+    "description": "Product 1 description updated",
+    "price": 100
+}
+
+###
+POST  http://127.0.0.1:8000/products/ HTTP/1.1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzM4MTQzODkzLCJpYXQiOjE3MzgxNDM1OTMsImp0aSI6ImM0MTJhMjJhNDIwMTRiNmY5OTQ4ZTIyZTIyNzg2MTM3IiwidXNlcl9pZCI6Mn0.5K5yNPD2lxjA7IINNw7CLlR5XjHyBkaowvDVtFhG5e4
+
+{
+    "name": "Television",
+    "price": 500,
+    "stock": 10,
+    "description": "Product 1 description",
+    "price": 100
+}
+
+###
+POST  http://127.0.0.1:8000/api/token/ HTTP/1.1
+Content-Type: application/json
+
+{
+    "username": "red-john",
+    "password": "rachid27"
+}
+
+###
+
+POST  http://127.0.0.1:8000/api/token/refresh HTTP/1.1
+Content-Type: application/json
+
+{
+    "refrech": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTczODIzMDYxNSwiaWF0IjoxNzM4MTQ0MjE1LCJqdGkiOiJjNmE4ODI1MzliMjg0YTVkYTU0MzFiZWM1YmY1NWI5NiIsInVzZXJfaWQiOjJ9.nW2TSZhS_anT3-4Uz_x00pNMof_OF-DxJyo-DafH_v0",
+}
+
+###
+GET http://127.0.0.1:8000/user-orders/ HTTP/1.1
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzM4NDgyMzU5LCJpYXQiOjE3Mzg0ODIwNTksImp0aSI6IjViZDU2YmExZGY4YTQ5NzU4YzQ4NTU4NDJjZmZiYWI4IiwidXNlcl9pZCI6MX0.M7P1P_MGcA3bGtTjt_7CeT1wYNA13a4YY3hOjkAWScU
+
+###
+GET http://127.0.0.1:8000/orders/ HTTP/1.1
+Authorization : Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzM4NjYxNTc2LCJpYXQiOjE3Mzg2NTc5NzYsImp0aSI6ImQyNDI3YmJkYTIxNjRkNDc5NzY0MzUwODg4MGI5MjVkIiwidXNlcl9pZCI6Mn0.zywiBvKJ4hMj6irSyG2D5F2E3RpXz11c_WNO4xjdIVA
+
+###
+
+GET http://127.0.0.1:8000/orders/005c70f6-72ac-4bbf-82ef-8007eee4348b HTTP/1.1
+Authorization : Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzM4MjQ4MTIwLCJpYXQiOjE3MzgyNDc4MjAsImp0aSI6IjVkZmJjZTEyMWUzMjRmMDE4ZTNmMzJlMDgxNzE5OTAyIiwidXNlcl9pZCI6Mn0.VVWYSmjk-z6m9sbmTp7brf3M-U4jyh7qJUTGQe5kqEM
+
+###
+POST  http://127.0.0.1:8000/orders/ HTTP/1.1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzM4NDk2NTI5LCJpYXQiOjE3Mzg0OTI5MjksImp0aSI6IjMwMzE4Y2FmOTVkZTQ4MWJhY2U3MmMyZWZkZWE4OWRmIiwidXNlcl9pZCI6Mn0.IrzOjp3VU8McdkbiUc1Z3XOKhbGnHtX3iH50yy3tGXo
+
+{
+    //"user":2,
+    "status": "pending",
+    "items": [
+        {
+            "product": 2,
+            "quantity": 4
+        },
+        {
+            "product": 3,
+            "quantity": 2
+        }
+    ]
+}
+###
+
+GET http://127.0.0.1:8000/orders/a4197711-ecce-49a8-98cb-2a805aaeab00/ HTTP/1.1
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzM4NTAxNzg5LCJpYXQiOjE3Mzg0OTgxODksImp0aSI6IjI2ZTRiYTQ5NDc5MzRiZDc5YWFkMTFjYTc4N2RhMjhkIiwidXNlcl9pZCI6Mn0.eh2XEMWgmpkyKcUBbvifCXqXcrMLaPEkpRTZQqzkYsE
+
+###
+
+PUT http://127.0.0.1:8000/orders/a4197711-ecce-49a8-98cb-2a805aaeab00/ HTTP/1.1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzM4NTAxNzg5LCJpYXQiOjE3Mzg0OTgxODksImp0aSI6IjI2ZTRiYTQ5NDc5MzRiZDc5YWFkMTFjYTc4N2RhMjhkIiwidXNlcl9pZCI6Mn0.eh2XEMWgmpkyKcUBbvifCXqXcrMLaPEkpRTZQqzkYsE
+
+{
+    "status": "completed",
+    "items": [
+        {
+            "product": 3,
+            "quantity": 99
+        },
+        {
+            "product": 3,
+            "quantity": 2
+        }
+    ]
+}
+
+###
+DELETE http://127.0.0.1:8000/orders/a4197711-ecce-49a8-98cb-2a805aaeab00/ HTTP/1.1
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzM4NTAxNzg5LCJpYXQiOjE3Mzg0OTgxODksImp0aSI6IjI2ZTRiYTQ5NDc5MzRiZDc5YWFkMTFjYTc4N2RhMjhkIiwidXNlcl9pZCI6Mn0.eh2XEMWgmpkyKcUBbvifCXqXcrMLaPEkpRTZQqzkYsE

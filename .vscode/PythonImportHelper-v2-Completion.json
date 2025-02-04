@@ -1,0 +1,663 @@
+[
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "Decimal",
+        "importPath": "decimal",
+        "description": "decimal",
+        "isExtraImport": true,
+        "detail": "decimal",
+        "documentation": {}
+    },
+    {
+        "label": "BaseCommand",
+        "importPath": "django.core.management.base",
+        "description": "django.core.management.base",
+        "isExtraImport": true,
+        "detail": "django.core.management.base",
+        "documentation": {}
+    },
+    {
+        "label": "lorem_ipsum",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "api.models",
+        "description": "api.models",
+        "isExtraImport": true,
+        "detail": "api.models",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "importPath": "api.models",
+        "description": "api.models",
+        "isExtraImport": true,
+        "detail": "api.models",
+        "documentation": {}
+    },
+    {
+        "label": "Order",
+        "importPath": "api.models",
+        "description": "api.models",
+        "isExtraImport": true,
+        "detail": "api.models",
+        "documentation": {}
+    },
+    {
+        "label": "OrderItem",
+        "importPath": "api.models",
+        "description": "api.models",
+        "isExtraImport": true,
+        "detail": "api.models",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "importPath": "api.models",
+        "description": "api.models",
+        "isExtraImport": true,
+        "detail": "api.models",
+        "documentation": {}
+    },
+    {
+        "label": "Order",
+        "importPath": "api.models",
+        "description": "api.models",
+        "isExtraImport": true,
+        "detail": "api.models",
+        "documentation": {}
+    },
+    {
+        "label": "django.contrib.auth.models",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractUser",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "django.contrib.auth.validators",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.auth.validators",
+        "description": "django.contrib.auth.validators",
+        "detail": "django.contrib.auth.validators",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "django.utils.timezone",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.utils.timezone",
+        "description": "django.utils.timezone",
+        "detail": "django.utils.timezone",
+        "documentation": {}
+    },
+    {
+        "label": "uuid",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uuid",
+        "description": "uuid",
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "ProductSerializer",
+        "importPath": "api.serializers",
+        "description": "api.serializers",
+        "isExtraImport": true,
+        "detail": "api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "OrderSerializer",
+        "importPath": "api.serializers",
+        "description": "api.serializers",
+        "isExtraImport": true,
+        "detail": "api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Command",
+        "kind": 6,
+        "importPath": "drf_course.api.management.commands.populate_db",
+        "description": "drf_course.api.management.commands.populate_db",
+        "peekOfCode": "class Command(BaseCommand):\n    help = 'Creates application data'\n    def handle(self, *args, **kwargs):\n        # get or create superuser\n        user = User.objects.filter(username='admin').first()\n        if not user:\n            user = User.objects.create_superuser(username='admin', password='test')\n        # create products - name, desc, price, stock, image\n        products = [\n            Product(name=\"A Scanner Darkly\", description=lorem_ipsum.paragraph(), price=Decimal('12.99'), stock=4),",
+        "detail": "drf_course.api.management.commands.populate_db",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "drf_course.api.migrations.0001_initial",
+        "description": "drf_course.api.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        (\"auth\", \"0012_alter_user_first_name_max_length\"),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name=\"Product\",\n            fields=[\n                (",
+        "detail": "drf_course.api.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "drf_course.api.migrations.0002_alter_orderitem_order",
+        "description": "drf_course.api.migrations.0002_alter_orderitem_order",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"api\", \"0001_initial\"),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name=\"orderitem\",\n            name=\"order\",\n            field=models.ForeignKey(\n                on_delete=django.db.models.deletion.CASCADE,",
+        "detail": "drf_course.api.migrations.0002_alter_orderitem_order",
+        "documentation": {}
+    },
+    {
+        "label": "ApiConfig",
+        "kind": 6,
+        "importPath": "drf_course.api.apps",
+        "description": "drf_course.api.apps",
+        "peekOfCode": "class ApiConfig(AppConfig):\n    default_auto_field = \"django.db.models.BigAutoField\"\n    name = \"api\"",
+        "detail": "drf_course.api.apps",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "drf_course.api.models",
+        "description": "drf_course.api.models",
+        "peekOfCode": "class User(AbstractUser):\n    pass\nclass Product(models.Model):\n    name = models.CharField(max_length=255)\n    description = models.TextField()\n    price = models.DecimalField(max_digits=10, decimal_places=2)\n    stock = models.PositiveIntegerField()\n    image = models.ImageField(upload_to='products/', null=True, blank=True)\n    @property\n    def in_stock(self):",
+        "detail": "drf_course.api.models",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "kind": 6,
+        "importPath": "drf_course.api.models",
+        "description": "drf_course.api.models",
+        "peekOfCode": "class Product(models.Model):\n    name = models.CharField(max_length=255)\n    description = models.TextField()\n    price = models.DecimalField(max_digits=10, decimal_places=2)\n    stock = models.PositiveIntegerField()\n    image = models.ImageField(upload_to='products/', null=True, blank=True)\n    @property\n    def in_stock(self):\n        return self.stock > 0\n    def __str__(self):",
+        "detail": "drf_course.api.models",
+        "documentation": {}
+    },
+    {
+        "label": "Order",
+        "kind": 6,
+        "importPath": "drf_course.api.models",
+        "description": "drf_course.api.models",
+        "peekOfCode": "class Order(models.Model):\n    class StatusChoices(models.TextChoices):\n        PENDING = 'pending', 'Pending'\n        COMPLETED = 'completed', 'Completed'\n        CANCELLED = 'cancelled', 'Cancelled'\n    order_id = models.UUIDField(primary_key=True, default = uuid.uuid4)\n    user = models.ForeignKey(User, on_delete=models.CASCADE)\n    created_at = models.DateTimeField(auto_now_add=True)\n    status = models.CharField(\n        max_length=10,",
+        "detail": "drf_course.api.models",
+        "documentation": {}
+    },
+    {
+        "label": "OrderItem",
+        "kind": 6,
+        "importPath": "drf_course.api.models",
+        "description": "drf_course.api.models",
+        "peekOfCode": "class OrderItem(models.Model):\n    order = models.ForeignKey(\n            Order,\n            on_delete=models.CASCADE,\n            related_name='items'\n        )\n    product = models.ForeignKey(Product, on_delete=models.CASCADE)\n    quantity = models.PositiveIntegerField()\n    @property\n    def item_subtotal(self):",
+        "detail": "drf_course.api.models",
+        "documentation": {}
+    },
+    {
+        "label": "ProductSerializer",
+        "kind": 6,
+        "importPath": "drf_course.api.serializers",
+        "description": "drf_course.api.serializers",
+        "peekOfCode": "class ProductSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Product\n        fields = (\n            'id',\n            'name',\n            'price',\n            'stock',\n        )\n    def validate_price(self, value):",
+        "detail": "drf_course.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "OrderItemSerializer",
+        "kind": 6,
+        "importPath": "drf_course.api.serializers",
+        "description": "drf_course.api.serializers",
+        "peekOfCode": "class OrderItemSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = OrderItem\n        fields = (\n            'product',\n            'quantity',\n        )\nclass OrderSerializer(serializers.ModelSerializer):\n    items = OrderItemSerializer(many=True, read_only=True)\n    total_price = serializers.SerializerMethodField()",
+        "detail": "drf_course.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "OrderSerializer",
+        "kind": 6,
+        "importPath": "drf_course.api.serializers",
+        "description": "drf_course.api.serializers",
+        "peekOfCode": "class OrderSerializer(serializers.ModelSerializer):\n    items = OrderItemSerializer(many=True, read_only=True)\n    total_price = serializers.SerializerMethodField()\n    def get_total_price(self, obj):\n        order_items = obj.items.all()\n        return sum(order_item.item_subtotal for order_item in order_items)\n    class Meta:\n        model = Order\n        fields = (\n            'order_id',",
+        "detail": "drf_course.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "drf_course.api.urls",
+        "description": "drf_course.api.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"products/\", views.product_list),\n    path(\"products/<int:pk>/\", views.product_detail),\n    path(\"orders/\", views.order_list),\n]",
+        "detail": "drf_course.api.urls",
+        "documentation": {}
+    },
+    {
+        "label": "product_list",
+        "kind": 2,
+        "importPath": "drf_course.api.views",
+        "description": "drf_course.api.views",
+        "peekOfCode": "def product_list(request):\n    products = Product.objects.all()\n    serializer = ProductSerializer(products, many=True)\n    return Response(serializer.data)\n@api_view(['GET'])\ndef product_detail(request, pk):\n    product = get_object_or_404(Product,pk=pk)\n    serializer = ProductSerializer(product)\n    return Response(serializer.data)\n@api_view(['GET'])",
+        "detail": "drf_course.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "product_detail",
+        "kind": 2,
+        "importPath": "drf_course.api.views",
+        "description": "drf_course.api.views",
+        "peekOfCode": "def product_detail(request, pk):\n    product = get_object_or_404(Product,pk=pk)\n    serializer = ProductSerializer(product)\n    return Response(serializer.data)\n@api_view(['GET'])\ndef order_list(request):\n    orders = Order.objects.all()\n    serializer = OrderSerializer(orders, many=True)\n    return Response(serializer.data)",
+        "detail": "drf_course.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "order_list",
+        "kind": 2,
+        "importPath": "drf_course.api.views",
+        "description": "drf_course.api.views",
+        "peekOfCode": "def order_list(request):\n    orders = Order.objects.all()\n    serializer = OrderSerializer(orders, many=True)\n    return Response(serializer.data)",
+        "detail": "drf_course.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "drf_course.drf_course.asgi",
+        "description": "drf_course.drf_course.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "drf_course.drf_course.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "drf_course.drf_course.settings",
+        "description": "drf_course.drf_course.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = \"django-insecure-0eo*vq=7py0!5y!$9dgf%e7eg!61c#ah7e-%+fjknc0ih-bl_c\"\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "drf_course.drf_course.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "drf_course.drf_course.settings",
+        "description": "drf_course.drf_course.settings",
+        "peekOfCode": "SECRET_KEY = \"django-insecure-0eo*vq=7py0!5y!$9dgf%e7eg!61c#ah7e-%+fjknc0ih-bl_c\"\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",",
+        "detail": "drf_course.drf_course.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "drf_course.drf_course.settings",
+        "description": "drf_course.drf_course.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",\n    \"django.contrib.staticfiles\",",
+        "detail": "drf_course.drf_course.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "drf_course.drf_course.settings",
+        "description": "drf_course.drf_course.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",\n    \"django.contrib.staticfiles\",\n    \"api\",",
+        "detail": "drf_course.drf_course.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "drf_course.drf_course.settings",
+        "description": "drf_course.drf_course.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",\n    \"django.contrib.staticfiles\",\n    \"api\",\n    \"django_extensions\",\n    \"rest_framework\",",
+        "detail": "drf_course.drf_course.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "drf_course.drf_course.settings",
+        "description": "drf_course.drf_course.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    \"django.middleware.security.SecurityMiddleware\",\n    \"django.contrib.sessions.middleware.SessionMiddleware\",\n    \"django.middleware.common.CommonMiddleware\",\n    \"django.middleware.csrf.CsrfViewMiddleware\",\n    \"django.contrib.auth.middleware.AuthenticationMiddleware\",\n    \"django.contrib.messages.middleware.MessageMiddleware\",\n    \"django.middleware.clickjacking.XFrameOptionsMiddleware\",\n]\nROOT_URLCONF = \"drf_course.urls\"",
+        "detail": "drf_course.drf_course.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "drf_course.drf_course.settings",
+        "description": "drf_course.drf_course.settings",
+        "peekOfCode": "ROOT_URLCONF = \"drf_course.urls\"\nTEMPLATES = [\n    {\n        \"BACKEND\": \"django.template.backends.django.DjangoTemplates\",\n        \"DIRS\": [],\n        \"APP_DIRS\": True,\n        \"OPTIONS\": {\n            \"context_processors\": [\n                \"django.template.context_processors.debug\",\n                \"django.template.context_processors.request\",",
+        "detail": "drf_course.drf_course.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "drf_course.drf_course.settings",
+        "description": "drf_course.drf_course.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        \"BACKEND\": \"django.template.backends.django.DjangoTemplates\",\n        \"DIRS\": [],\n        \"APP_DIRS\": True,\n        \"OPTIONS\": {\n            \"context_processors\": [\n                \"django.template.context_processors.debug\",\n                \"django.template.context_processors.request\",\n                \"django.contrib.auth.context_processors.auth\",",
+        "detail": "drf_course.drf_course.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "drf_course.drf_course.settings",
+        "description": "drf_course.drf_course.settings",
+        "peekOfCode": "WSGI_APPLICATION = \"drf_course.wsgi.application\"\n# Database\n# https://docs.djangoproject.com/en/5.1/ref/settings/#databases\nDATABASES = {\n    \"default\": {\n        \"ENGINE\": \"django.db.backends.sqlite3\",\n        \"NAME\": BASE_DIR / \"db.sqlite3\",\n    }\n}\n# Password validation",
+        "detail": "drf_course.drf_course.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "drf_course.drf_course.settings",
+        "description": "drf_course.drf_course.settings",
+        "peekOfCode": "DATABASES = {\n    \"default\": {\n        \"ENGINE\": \"django.db.backends.sqlite3\",\n        \"NAME\": BASE_DIR / \"db.sqlite3\",\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/5.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "drf_course.drf_course.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "drf_course.drf_course.settings",
+        "description": "drf_course.drf_course.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.UserAttributeSimilarityValidator\",\n    },\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.MinimumLengthValidator\",\n    },\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.CommonPasswordValidator\",\n    },",
+        "detail": "drf_course.drf_course.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "drf_course.drf_course.settings",
+        "description": "drf_course.drf_course.settings",
+        "peekOfCode": "LANGUAGE_CODE = \"en-us\"\nTIME_ZONE = \"UTC\"\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = \"static/\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "drf_course.drf_course.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "drf_course.drf_course.settings",
+        "description": "drf_course.drf_course.settings",
+        "peekOfCode": "TIME_ZONE = \"UTC\"\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = \"static/\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"\nAUTH_USER_MODEL = \"api.User\"",
+        "detail": "drf_course.drf_course.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "drf_course.drf_course.settings",
+        "description": "drf_course.drf_course.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = \"static/\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"\nAUTH_USER_MODEL = \"api.User\"",
+        "detail": "drf_course.drf_course.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "drf_course.drf_course.settings",
+        "description": "drf_course.drf_course.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = \"static/\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"\nAUTH_USER_MODEL = \"api.User\"",
+        "detail": "drf_course.drf_course.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "drf_course.drf_course.settings",
+        "description": "drf_course.drf_course.settings",
+        "peekOfCode": "STATIC_URL = \"static/\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"\nAUTH_USER_MODEL = \"api.User\"",
+        "detail": "drf_course.drf_course.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "drf_course.drf_course.settings",
+        "description": "drf_course.drf_course.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"\nAUTH_USER_MODEL = \"api.User\"",
+        "detail": "drf_course.drf_course.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_USER_MODEL",
+        "kind": 5,
+        "importPath": "drf_course.drf_course.settings",
+        "description": "drf_course.drf_course.settings",
+        "peekOfCode": "AUTH_USER_MODEL = \"api.User\"",
+        "detail": "drf_course.drf_course.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "drf_course.drf_course.urls",
+        "description": "drf_course.drf_course.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"admin/\", admin.site.urls),\n    path(\"\", include(\"api.urls\")),\n]",
+        "detail": "drf_course.drf_course.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "drf_course.drf_course.wsgi",
+        "description": "drf_course.drf_course.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "drf_course.drf_course.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "drf_course.manage",
+        "description": "drf_course.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault(\"DJANGO_SETTINGS_MODULE\", \"drf_course.settings\")\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "drf_course.manage",
+        "documentation": {}
+    }
+]
